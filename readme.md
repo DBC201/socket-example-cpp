@@ -19,12 +19,14 @@ Follow the steps below to build and run the project:
 
 1. Clone the repository:
 
-```git clone <repository-url>```
+```git clone git@github.com:DBC201/socket-example-cpp.git```
+
 ```cd socket-example```
 
 2. Create a build directory and navigate into it:
 
 ```mkdir build```
+
 ```cd build```
 
 3. Generate the build files using CMake:
